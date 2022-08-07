@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">The Quiz</string>
+    <string name="title">The Quiz</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="label_highscores">Highscores:</string>
+    <string name="score_display">Score: %1$d</string>
+    <string name="answered_questions_display">Question: %1$d/%2$d</string>
+    <string name="confirm_answer">Confirm</string>
+    <string name="next_question">Next Question</string>
+    <string name="finish_quiz">Finish</string>
+    <string name="select_answer_warning">Please select an answer</string>
+    <string name="back_pressed_warning">Press Back again to exit</string>
+</resources>
